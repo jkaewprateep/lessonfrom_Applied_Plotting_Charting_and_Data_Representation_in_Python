@@ -9,7 +9,7 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 </p>
 
 
-## 🧸💬 What are prediction scores and why are the provided prediction scores not equal to the summation of the error square of scores and prediction?
+## 🧸💬 What are single-degree and double-degree changing in statistics and example of an application for machine learning?
 
 
 <p align="center" width="100%">
