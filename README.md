@@ -37,6 +37,8 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 
 
 ## 🧸💬 Example of one using daily usage software tubular table for visualization.
+🐑💬 ➰ I am jumping above the graph from a tabular sheet table ~ holah ~ </br>
+🐯💬 This is better for educational learning materials.
 
 
 <p align="center" width="100%">
