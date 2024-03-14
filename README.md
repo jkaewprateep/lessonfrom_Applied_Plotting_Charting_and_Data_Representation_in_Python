@@ -27,6 +27,7 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 
 
 ## 🧸💬 What are the effects and codes for random distribution, optimizing for integrated application? 
+👧💬 🎈 There is a study for the ratios for distribution and actions for performance and we found ```1 / 5``` we can play AI games with performance then the game's manufacturers try to win our program by adding actions and responses, 1/6 and combo actions is enough response since we can use pulse action or combo actions as late Famicom game set player. </br>
 
 
 <p align="center" width="100%">
