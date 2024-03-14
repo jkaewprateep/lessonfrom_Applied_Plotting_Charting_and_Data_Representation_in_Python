@@ -43,4 +43,6 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/04.png">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/05.png">
+    <img width="50%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/FlappyBird_small.gif">
 </p>
