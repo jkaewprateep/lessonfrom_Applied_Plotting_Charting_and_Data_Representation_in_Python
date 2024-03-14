@@ -27,7 +27,8 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 
 
 ## 🧸💬 What are the effects and codes for random distribution, optimizing for integrated application? 
-👧💬 🎈 There is a study for the ratios for distribution and actions for performance and we found ```1 / 5``` we can play AI games with performance then the game's manufacturers try to win our program by adding actions and responses, 1/6 and combo actions is enough response since we can use pulse action or combo actions as late Famicom game set player. </br>
+👧💬 🎈 There is a study for the ratios for distribution and actions for performance and we found ```1 / 5``` we can play AI games with performance then the game's manufacturers try to win our program by adding actions and responses, ```1 / 6``` and combo actions is enough response since we can use pulse action or combo actions as late Famicom game set player. </br>
+👧💬 🎈 You may see from the previous example or this dialogue that with Pluse or signalings encryption we can compress 24 character length long command in bitwise to smaller command target mapping by frequency order or ``` ```priority by differentiated``` 🐣💬 Maintenance is how we can survive and development are not coming from purchasing only. </br>
 
 
 <p align="center" width="100%">
