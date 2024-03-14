@@ -2,6 +2,8 @@
 University of Michigan - Applied Plotting, Charting &amp; Data Representation in Python
 
 ## 🧸💬 How do I program an automatic environmental conditions learning machine?
+🐨🎁🎵🎶 Possible create response action(s) at the time events settings, synchronize, learning, and transferable optimize for learning and setup task operation. </br>
+🐑💬 ➰ From running the application add some variables for learning or optimizing solutions for the problem such as wind velocity, gravity, friction, and momentum that create of more fun way of research study. </br>
 
 
 <p align="center" width="100%">
