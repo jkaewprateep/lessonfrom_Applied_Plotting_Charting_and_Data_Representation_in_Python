@@ -2,7 +2,7 @@
 University of Michigan - Applied Plotting, Charting &amp; Data Representation in Python
 
 ## 🧸💬 How do I program an automatic environmental conditions learning machine?
-🐨🎁🎵🎶 Possible create response action(s) at the time events settings, synchronize, learning, and transferable optimize for learning and setup task operation. </br>
+🐨🎁🎵🎶 Possible create response action(s) at the time events settings, synchronize, learning, and transferable ```optimize for learning and setup task operation.``` </br>
 🐑💬 ➰ From running the application add some variables for learning or optimizing solutions for the problem such as wind velocity, gravity, friction, and momentum that create of more fun way of research study. </br>
 🦭💬 Dragging force and temperature when working underwater with a slow stream  🦭🦭💬 Smell does not count. </br>
 🦭💬 I have watched many times of television programs about the winner of AI snake robots and fish robots for underwater captivated area rescued robots, the winner is a high school student and this inspires him to build many AI machine learning examples for study and they are not too difficult for kids as it is a cartoons. </br>
