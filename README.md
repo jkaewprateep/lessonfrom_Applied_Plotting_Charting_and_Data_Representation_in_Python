@@ -14,6 +14,9 @@ University of Michigan - Applied Plotting, Charting &amp; Data Representation in
 
 
 ## 🧸💬 What are single-degree and double-degree changes in statistics and an example of an application for machine learning?
+🧸💬 A double degree is velocity differentiated from the first degree when the first degree explains slope or velocity the second degree is acceleration or the integration area. </br>
+🐑💬 ➰ Possible to create the same work by a similar pattern, it is not directly differentiated or ratios but it is continuity of change and velocity of the values as streams. </br>
+🐐💬 Similar to circuit current it needs to follow the sequence patterns and be synchronized. Do you see Ben's YouTube he plotted an oscilloscope graph with harmonic frequency response, high contrast with different sources is not always synchronized and this is the basic method to verify the same source's current or working of intelligences. </br>
 
 
 <p align="center" width="100%">
