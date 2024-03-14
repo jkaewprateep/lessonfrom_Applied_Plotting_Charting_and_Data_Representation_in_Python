@@ -1,7 +1,7 @@
 # University of Michigan - Applied Plotting, Charting &amp; Data Representation in Python - notes
 University of Michigan - Applied Plotting, Charting &amp; Data Representation in Python
 
-## 🧸💬 What are prediction scores and why are the provided prediction scores not equal to the summation of the error square of scores and prediction?
+## 🧸💬 How do I program an automatic environmental conditions learning machine?
 
 
 <p align="center" width="100%">
